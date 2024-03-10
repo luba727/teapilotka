@@ -1,0 +1,22 @@
+{
+  "name": "teapilotka",
+  "version": "1.0.0",
+  "description": "helper programm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luba727/teapilotka.git"
+  },
+  "dependencies": {
+    "ssonomer1":"1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luba727/teapilotka/issues"
+  },
+  "homepage": "https://github.com/luba727/teapilotka#readme"
+}
